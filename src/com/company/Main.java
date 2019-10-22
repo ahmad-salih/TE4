@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("first line");
         System.out.println("second line");
+        System.out.println("third in B1");
     }
 }
